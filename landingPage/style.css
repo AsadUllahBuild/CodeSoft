@@ -197,16 +197,12 @@ ul {
     cursor: pointer;
 }
 
-/* Add this CSS to your style.css file */
-
-/* Styling for the Services Heading */
 .services-heading {
     text-align: center;
     font-size: 36px;
     color: #fff;
     margin-bottom: 30px;
     margin-top: 30px;
-    /* Add any additional styles you prefer */
 }
 
 
@@ -293,9 +289,7 @@ footer{
     justify-content: center;
     margin: 1rem 0 1.5rem 0;
 }
-.socials li{
-    /* margin: 0 10px; */
-}
+
 .socials a{
     text-decoration: none;
     color: #fff;
